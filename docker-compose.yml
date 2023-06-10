@@ -8,4 +8,4 @@ services:
     ports:
       - "4321:4321"
     environment:
-      - mongodb://mongo:equifissaoeh@rsp_db:27017
+      - mongodb://mongo:equifissaoeh@csliathz.xyz:270
