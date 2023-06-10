@@ -8,4 +8,4 @@ services:
     ports:
       - "4321:4321"
     environment:
-      - MONGO_URL=mongodb://localhost:27017
+      - mongodb://mongo:equifissaoeh@rsp_db:27017
